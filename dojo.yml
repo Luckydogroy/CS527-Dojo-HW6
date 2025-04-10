@@ -1,6 +1,11 @@
-id: anton00b
-name: juniorust
-type: public
+id: cs527dojohw6
+
+name: CS527-Dojo-HW6
+
+type: homework
+
+description:
+    This is the homework 6 DOJO for Purdue University course CS527 "Software Security"
 
 modules:
   - id: juniorust
