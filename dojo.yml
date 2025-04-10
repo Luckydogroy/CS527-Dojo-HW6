@@ -1,0 +1,11 @@
+id: anton00b
+name: juniorust
+type: public
+
+modules:
+  - id: juniorust
+    name: juniorust
+    image: adamdoupe/cowsay
+    challenges:
+      - id: juniorust
+        name: juniorust
